@@ -42,6 +42,7 @@ OPTIONAL SECTIONS:
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
 *hello-rails-back-end* is a Ruby on Rails API backend application that has an API endpoint to display a random greeting message.
+The API is going to be show in the [hello-react-frontend](https://github.com/OsvaldoBC/hello-react-frontend) application
 
 ## 🛠 Built With <a name="built-with"></a>
 - `Ruby on Rails`
